@@ -121,7 +121,7 @@ Cuando un cambio esté revisado y aprobado, crear un **Pull Request** hacia la r
 | Tipo de archivo             | Ejemplo de nombre                   | Reglas principales                                  |
 |----------------------------|------------------------------------|------------------------------------------------------|
 | Script Python             | `extraccion_base_v01.ipynb`        | Incrementar versión por cada modificación           |
-| Regla de negocio          | `definicion_variable_v02.ipynb`    | Mantener histórico de cambios en definiciones       |
+| Query SQL         | `definicion_variable_v02.ipynb`    | Mantener histórico de cambios en definiciones       |
 
 ---
 
@@ -137,3 +137,4 @@ Cuando un cambio esté revisado y aprobado, crear un **Pull Request** hacia la r
 
 
 📚 **Mantener este README actualizado** cada vez que se incorporen nuevas tematicas o lenguajes de programación al repositorio u se sumen nuevas convenciones.
+
