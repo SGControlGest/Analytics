@@ -52,7 +52,7 @@ El flujo recomendado para trabajar en este repositorio es el siguiente:
 Desde Visual Studio Code o DBeaver, clonar el repositorio en tu equipo:
 
 ```bash
-git clone https://github.com/tu-organizacion/gestion-documental.git
+git clone https://github.com/SGControlGest/Analytics
 ```
 
 ---
