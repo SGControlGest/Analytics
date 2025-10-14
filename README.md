@@ -135,4 +135,5 @@ Cuando un cambio esté revisado y aprobado, crear un **Pull Request** hacia la r
 
 ---
 
-📚 **Mantén este README actualizado** cada vez que se incorporen nuevas tematicas o lenguajes de programación al repositorio u se sumen nuevas convenciones.
+
+📚 **Mantener este README actualizado** cada vez que se incorporen nuevas tematicas o lenguajes de programación al repositorio u se sumen nuevas convenciones.
