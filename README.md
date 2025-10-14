@@ -80,7 +80,7 @@ Antes de subir cualquier archivo:
 ```bash
 git add 01_Queries_Python/extraccion_datos_v02.ipynb
 git commit -m "Actualización script extracción de datos - versión 02"
-git push origin drojas/extraccion_datos
+git push origin drojas/extraccion_dato
 ```
 
 ---
