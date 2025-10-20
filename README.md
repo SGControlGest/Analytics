@@ -99,7 +99,6 @@ Cuando un cambio esté revisado y aprobado, crear un **Pull Request** hacia la r
 ✅ **Mantener el historial:** No eliminar versiones antiguas, sirven como referencia de evolución del código.  
 ✅ **Commits descriptivos:** Usa mensajes de commit claros que expliquen qué se cambió y por qué.  
 ✅ **Mantener estructura:** Guardar el script o query en su carpeta correspondiente.
-✅ **Mantener estructura:** Guardar el script o query en su carpeta correspondiente.
 ✅**Coordinación**: Coordinar tanto las tareas a realizar como la forma de ejecutarlas, manteniendo una estructura y un orden de trabajo que permitan optimizar recursos y evitar la duplicación de esfuerzos.
 
 ---
@@ -137,4 +136,5 @@ Cuando un cambio esté revisado y aprobado, crear un **Pull Request** hacia la r
 
 
 📚 **Mantener este README actualizado** cada vez que se incorporen nuevas tematicas o lenguajes de programación al repositorio u se sumen nuevas convenciones.
+
 
