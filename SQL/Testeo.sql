@@ -5,3 +5,12 @@ GROUP BY PRCN_MES
 ORDER BY 1
 
 -------- Estos fueron LOS NUEVOS CAMBIOS--------
+
+
+
+
+
+
+
+SELECT * FROM PCRN_MES
+FROM SINISTROS
